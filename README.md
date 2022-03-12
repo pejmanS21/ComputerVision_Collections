@@ -1,5 +1,5 @@
-# GAN_Collections
-A collection of GANs
+# CV_Collections
+A collection of ComputerVisions projects
 
 
 ## Style GAN
