@@ -1,9 +1,6 @@
-# CV_Collections
-A collection of ComputerVisions projects
+# CV_Collection
 
+A collection of computer vision application
 
-## Style GAN
-
-Check [StyleGAN_NVIDIA.ipynb](./resource/StyleGAN_NVIDIA.ipynb)
-
-![style_gan.gif](./images/Style_GAN.gif)
+- [GANs](./GANs/)
+- [YOLO](./YOLO/)
